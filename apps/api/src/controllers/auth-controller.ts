@@ -1,1 +1,1 @@
-export function register() {}
+export function register(req, res) {}
